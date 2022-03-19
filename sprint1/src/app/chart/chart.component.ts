@@ -7,7 +7,6 @@ import Chart from 'node_modules/chart.js/dist/chart.min.js';
   styleUrls: ['./chart.component.css']
 })
 export class ChartComponent implements OnInit {
-  // myChart: any;
 
   constructor() {
   }
