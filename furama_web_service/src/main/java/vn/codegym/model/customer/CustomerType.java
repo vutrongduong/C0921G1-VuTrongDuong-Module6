@@ -42,6 +42,6 @@ public class CustomerType {
 
     public void setCustomerList(List<Customer> customerList) {
         this.customerList = customerList;
-        "okela";
+        "okelao kia";
     }
 }
